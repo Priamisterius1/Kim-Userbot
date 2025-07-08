@@ -54,7 +54,7 @@ Repo Yang Dibuat [🌱KIM 🌱](https://t.me/warga_pati) Dari Berbagai Repo User
 ## <p align="center">DEPLOY KIM-USERBOT</p>
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/abdurrohimbontro/Kim-Userbot/tree/Kim-Userbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-blue?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+<p align="center"><a href="https://netlify.com/deploy?template=https://github.com/abdurrohimbontro/Kim-Userbot/tree/Kim-Userbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20netlify-blue?style=flat&logo=netlify" width="210" height="34.45" /></a></p>
 
 <br>
 </p>
